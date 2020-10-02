@@ -4,7 +4,7 @@ author: "abhishekr700@gmail.com"
 
 inputs:
   MY_NAME:
-    description: "Who to greet"
+    description: "Whom to greet"
     required: true
     default: "Abhishek"
 
@@ -14,4 +14,4 @@ runs:
 
 branding:
   icon: "mic"
-  color: "purple"
+  color: "blue"
